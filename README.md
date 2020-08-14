@@ -1,10 +1,9 @@
 <p align="center">
-<img width="431" alt="Screen Shot 2020-08-11 at 10 43 33 PM" src="https://user-images.githubusercontent.com/68092946/89969352-2a031580-dc24-11ea-84fb-1c4852610cf1.png"/>
-</p>
+<img width="424" alt="Screen Shot 2020-08-11 at 10 43 33 PM" src="https://user-images.githubusercontent.com/68092946/90272095-dc0c2e80-de2a-11ea-808f-2a9d82d009c4.png"></p>
 
 #### <div align="center">Your Online Study Platform</div>
 <p align="center">
-<img src="https://img.shields.io/github/license/alessandraburckhalter/online-Study-Platform-Proffy"> <img src="https://img.shields.io/npm/v/npm"></p>
+<img src="https://img.shields.io/github/license/alessandraburckhalter/Online-Study-Platform-Proffy?color=%23836FFF"> <img src="https://img.shields.io/npm/v/npm?color=%23836FFF"><img src="https://img.shields.io/badge/proffy-NLW%202.0-%23836FFF"></p>
 
 <br>
 <br>
@@ -28,17 +27,17 @@ Proffy is a platform that connects teachers and students through a simple, dynam
 <br>
 
 ## ⚙ How to run 
-### 1. Requirements<br>
+### 1. Requirements:<br>
 - [x] It is necessary to have Node.js installed;
 - [x] It is necessary to have Git installed and configured;
 - [x] It is necessary a package manager like NPM installed.
-### 2. You need to clone the repository.
+### 2. Cloning the repository: 
 ```$ git clone https://github.com/gitpcl/proffy.git```
-### 3. Installing dependencies.
+### 3. Installing dependencies:
 ```$ npm install --save```
-### 4. Running the project.
+### 4. Running the project:
 ```$ npm start```
-### 5. Open the browser on URL.
+### 5. Open the following URL in the browser:
 ```http://localhost:5500/```
 <br>
 <br>
@@ -49,9 +48,14 @@ The project developed was instructed and supervided by [Mayk Brito](https://gith
 <br> 
 
 ## 📝 License
-This project is under MIT license. See the [License](https://opensource.org/licenses/MIT) for more information.
+This project is under MIT license. See the [license](https://opensource.org/licenses/MIT) for more information.
 <br /> 
 <br /> 
 
 ## :wave: Let's connect!
 Get in touch on [LinkedIn](https://www.linkedin.com/in/alessandra-burckhalter/).
+<br /> 
+<br /> 
+
+****
+####  <div align="center">Made with <span style="color: #e25555;">&#9829;</span> by Alessandra Burckhalter</div>
