@@ -3,7 +3,7 @@
 
 #### <div align="center">Your Online Study Platform</div>
 <p align="center">
-<img src="https://img.shields.io/github/license/alessandraburckhalter/Online-Study-Platform-Proffy?color=%23836FFF"> <img src="https://img.shields.io/npm/v/npm?color=%23836FFF"><img src="https://img.shields.io/badge/proffy-NLW%202.0-%23836FFF"></p>
+<img src="https://img.shields.io/github/license/alessandraburckhalter/Online-Study-Platform-Proffy?color=%23836FFF"> <img src="https://img.shields.io/npm/v/npm?color=%23836FFF"> <img src="https://img.shields.io/badge/proffy-NLW%202.0-%23836FFF"></p>
 
 <br>
 <br>
@@ -12,7 +12,7 @@
 Proffy is a platform that connects teachers and students through a simple, dynamic and responsive graphic interface.<br>This application offers teachers the possibility to register their classes, adding information such as subjects, cost and available hours. For students, it offers the possibility to search for registered teachers and contact them. This project was developed during Next Level Week 2, held by Rocketseat in August 2020.
 <br>
 <br>
-## 🛠 Used Technologies 
+## :hammer_and_wrench: Used Technologies 
 * HTML
 * CSS
 * JavaScript
@@ -41,13 +41,13 @@ Proffy is a platform that connects teachers and students through a simple, dynam
 ```http://localhost:5500/```
 <br>
 <br>
-## 🥇 Credits
+## :medal_military: Credits
 The layout and project ideia was created by [Rocketseat](https://github.com/Rocketseat) for Next Level Week 2.<br>
-The project developed was instructed and supervided by [Mayk Brito](https://github.com/maykbrito).
+The project developed was instructed by [Mayk Brito](https://github.com/maykbrito).
 <br> 
 <br> 
 
-## 📝 License
+## :page_with_curl: License
 This project is under MIT license. See the [license](https://opensource.org/licenses/MIT) for more information.
 <br /> 
 <br /> 
