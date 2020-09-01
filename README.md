@@ -43,7 +43,7 @@ Proffy is a platform that connects teachers and students through a simple, dynam
 <br>
 ## :medal_military: Credits
 The layout and project ideia was created by [Rocketseat](https://github.com/Rocketseat) for Next Level Week 2.<br>
-The project developed was instructed by [Mayk Brito](https://github.com/maykbrito).
+The developed project was instructed by [Mayk Brito](https://github.com/maykbrito).
 <br> 
 <br> 
 
